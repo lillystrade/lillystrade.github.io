@@ -1,0 +1,85 @@
+/* You should edit the content below to fit your website */
+
+
+.readingimage {
+	float: right;
+	margin-right: 250px;
+	position:relative;
+	bottom: 150px;
+
+}
+.reading {
+	margin-right:500px;
+	margin-left:200px;
+}
+
+.baking {
+	margin-left:450px;
+	margin-right:200px;
+	position: relative;
+	top:150px;
+}
+.bakingimage {
+	margin-left:200px;
+	position:relative;
+	bottom:100px;
+}
+
+.travel{
+ margin-right:500px;
+ margin-left: 200px;
+
+}
+.floridaimage {
+	float: right;
+	margin-right: 250px;
+	position: relative;
+	bottom: 150px;
+}
+
+
+.navbar {
+    background-color: lightpink;
+    overflow: hidden;
+}
+
+.nav-item {
+    float: left;
+}
+
+.nav-item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+}
+
+.nav-item a:hover {
+    background-color: lightpink;
+    color: hotpink;
+}
+
+
+.aboutbar {
+    overflow: hidden;
+}
+
+.about-item {
+float: left;
+margin-left:175px;
+margin-right:175px;
+}
+
+.about-item a {
+    display: block;
+    color: hotpink;
+    text-align: center;
+    padding: 14px 20px;
+    font-size:25px;
+}
+
+.about-item a:hover {
+    background-color: lightpink;
+    color: hotpink;
+}
+

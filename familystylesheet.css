@@ -1,0 +1,56 @@
+/* You should edit the content below to fit your website */
+
+.photos {
+	margin-left:75px;
+}
+
+.navbar {
+    background-color: lightpink;
+    overflow: hidden;
+}
+
+.nav-item {
+    float: left;
+}
+
+.nav-item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+}
+
+.nav-item a:hover {
+    background-color: lightpink;
+    color: hotpink;
+}
+
+
+.aboutbar {
+    overflow: hidden;
+}
+
+.about-item {
+float: left;
+margin-left:175px;
+margin-right:175px;
+}
+
+.about-item a {
+    display: block;
+    color: hotpink;
+    text-align: center;
+    padding: 14px 20px;
+    font-size:25px;
+}
+
+.about-item a:hover {
+    background-color: lightpink;
+    color: hotpink;
+}
+
+.family {
+    margin-left:600px;
+    margin-right:600px;
+    color:hotpink;
+}

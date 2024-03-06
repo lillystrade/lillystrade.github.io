@@ -1,0 +1,44 @@
+/* You should edit the content below to fit your website */
+
+.heading {
+    margin-left:575px;
+    postition:relative;
+    top: 30px;
+    font: sans-serif;
+    color:hotpink;
+}
+
+.text {
+	margin-left:550px;
+	postition:relative;
+	top: 30px;
+	font: sans-serif;
+	color:hotpink;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: lightpink;
+    overflow: hidden;
+}
+
+.nav-item {
+    float: left;
+}
+
+.nav-item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+}
+
+.nav-item a:hover {
+    background-color: lightpink;
+    color: hotpink;
+}
+
+
+.images {
+    margin-left:300px;
+}
